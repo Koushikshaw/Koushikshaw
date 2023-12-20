@@ -1,5 +1,10 @@
 # Hello, World! 👋 I'm Koushik Shaw 
-# <p align="left"> <img src="https://komarev.com/ghpvc/?username=Koushikshaw&label=Profile%20views&color=0e75b6&style=flat" alt="Tushar-0202-Shaw" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Koushikshaw&label=Profile%20views&color=0e75b6&style=flat" alt="Koushikshaw" /> </p>
+
+## Intro:
+I am a passionate newbie in coding world, having curiosity as a driving force to create, understand, and most importantly live with the code. Lets connect and code together!
+  
 ## 💫 About Me:
 - 🔭 I’m currently pursuing my B.Tech in KIIT University and I'm in my First year.
 - 🌱 I’m currently learning **C**
@@ -15,7 +20,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Koushikshaw&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Koushikshaw&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
 <!--
 **Koushikshaw/Koushikshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
