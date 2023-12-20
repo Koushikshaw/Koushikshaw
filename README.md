@@ -1,4 +1,4 @@
-# <h1 align="center">Hello, World! 👋 I'm Koushik Shaw</h1> 
+# Hello, World! 👋 I'm Koushik Shaw 
 ## 💫 About Me:
 - 🔭 I’m currently pursuing my B.Tech in KIIT University and I'm in my First year.
 - 🌱 I’m currently learning **C**
