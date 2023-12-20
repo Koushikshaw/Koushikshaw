@@ -1,4 +1,5 @@
 # Hello, World! 👋 I'm Koushik Shaw 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Koushikshaw&label=Profile%20views&color=0e75b6&style=flat" alt="Tushar-0202-Shaw" /> </p>
 ## 💫 About Me:
 - 🔭 I’m currently pursuing my B.Tech in KIIT University and I'm in my First year.
 - 🌱 I’m currently learning **C**
