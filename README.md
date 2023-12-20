@@ -1,4 +1,11 @@
-# <h1 align="center">Hello, World! 👋 I'm Koushik Shaw</h1> 
+<h1 align="center">Hello, World! 👋 I'm Koushik Shaw</h1> 
+--
+## 💫 About Me:
+- 🔭 I’m currently pursuing my B.Tech in KIIT University and I'm in my First year.
+- 🌱 I’m currently learning **C**
+- 📫 How to reach me **kousjikshaw1111@gmail.com**
+
+--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Koushikshaw&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Koushikshaw&theme=monokai&hide_border=false)<br/>
