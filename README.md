@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Koushikshaw&label=Profile%20views&color=0e75b6&style=flat" alt="Koushikshaw" /> </p>
 
-## Intro:
+## 🎉Intro:
 I am a passionate newbie in coding world, having curiosity as a driving force to create, understand, and most importantly live with the code. Lets connect and code together!
   
 ## 💫 About Me:
