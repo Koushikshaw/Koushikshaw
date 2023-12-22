@@ -13,6 +13,7 @@ I am a passionate newbie in coding world, having curiosity as a driving force to
 <a href="https://www.linkedin.com/in/koushik-shaw-289051280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Koushikshaw" height="30" width="40" /></a>
 <a href="https://www.instagram.com/koushik_shaw_1612/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Koushikshaw" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kousjikso724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Koushikshaw" height="30" width="40" /></a>
+  <a href="https://leetcode.com/Koushik1612/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg](https://raw.githubusercontent.com/LeetCode-OpenSource/vscode-leetcode/master/resources/LeetCode.svg)" alt="Koushikshaw" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
