@@ -30,6 +30,15 @@ I am a passionate newbie in coding world, having curiosity as a driving force to
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Koushikshaw&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Koushikshaw&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) <br>
+
+
+---
+### 🎎 Visitors count: <p align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=somnath0904&label=Profile%20views&color=0e75b6&style=flat" alt="somnath0904" /> </p> <br>
+
+
 <!--
 **Koushikshaw/Koushikshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
