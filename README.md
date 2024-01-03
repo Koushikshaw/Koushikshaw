@@ -1,10 +1,10 @@
 <h1 align="center">Hello, World! 👋 I'm Koushik Shaw</h1>
 
 ## 🎉Intro:
-I am a passionate newbie in coding world, having curiosity as a driving force to create, understand, and most importantly live with the code. Lets connect and code together!
+I am a passionate newbie in the coding world, having curiosity as a driving force to create, understand, and most importantly live with the code. Let's connect and code together!
   
 ## 💫 About Me:
-- 🔭 I’m currently pursuing my B.Tech in KIIT University and I'm in my First year.
+- 🔭 I’m currently pursuing my B. Tech at KIIT University and I'm in my first year.
 - 🌱 I’m currently learning **C**
 - 📫 How to reach me **kousjikshaw1111@gmail.com**
 
