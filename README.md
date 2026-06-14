@@ -160,23 +160,16 @@
 <br/>
 
 
-## 📊 GitHub Stats
-
-<br/>
-
+# 📊 GitHub Stats:
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Koushikshaw&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Koushikshaw&theme=monokai&hide_border=false" alt="GitHub Streak" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koushikshaw&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150"/>
-
-</div>
-
-<br/>
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koushikshaw&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koushikshaw&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Koushikshaw&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Koushikshaw&theme=radical">
+<img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koushikshaw&theme=radical&utcOffset=8">
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=Koushikshaw&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Koushikshaw&theme=radical">
+</div><br>
 
 
 
