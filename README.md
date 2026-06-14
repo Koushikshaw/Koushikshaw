@@ -60,9 +60,9 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center"> -->
 
-<table>
+<!-- <table>
   <tr>
     <td align="center" width="110">
       <a href="https://www.blender.org/">
@@ -155,12 +155,15 @@
   </tr>
 </table>
 
+</div> -->
+<div align="center">
+<img  src="https://skillicons.dev/icons?i=html,css,javascript,postman,java,bootstrap,tailwind,c,cpp,python,pytorch,vscode,mysql,linux,git,nodejs,sklearn,npm,anaconda,eclipse" />
 </div>
-
 <br/>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
+
 <div align="center">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koushikshaw&theme=radical">
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koushikshaw&theme=radical">
@@ -172,18 +175,11 @@
 </div><br>
 
 
-
-## 🏆 GitHub Trophies
-
-<br/>
-
+<!-- <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koushikshaw&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div> -->
 
-![](https://github-profile-trophy.vercel.app/?username=Koushikshaw&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-<br/>
 
 
 <div align="center">
