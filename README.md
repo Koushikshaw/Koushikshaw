@@ -24,19 +24,24 @@
 
 <br/>
 
-🔭 &nbsp;Currently working on **[CricketScore](https://github.com/Koushikshaw/CricketScore)**
+🔭  Currently working on **Machine Learning, Deep Learning, and Computer Vision projects**
 
-🌱 &nbsp;Currently learning **Express and Node.js**
+🌱  Exploring **PyTorch, Transformers, Domain Adaptation, Vision Transformers (ViT), and Large Language Models (LLMs)**
 
-💡 &nbsp;I am a passionate newbie in the coding world, having **curiosity** as a driving force to create, understand, and most importantly **live with the code**
+🧠  Research enthusiast focused on **Domain Adaptation, Representation Learning, Agricultural AI, and Multimodal Learning**
 
-📫 &nbsp;Reach me at **kousjikshaw1111@gmail.com**
+📚  Currently working on research involving **Graph Convulation Network for Emotion Detection from Brain Signal Analysis**
 
-📄 &nbsp;Check out my **[Resume](https://docs.google.com/document/d/1sMbsdjLxGuEzG0vZQsg5b8q1SWMTRodr420M7cjTcyk/edit?tab=t.0)**
+🚀  Building intelligent AI systems, including projects in **Legal Saarthi, MovieRecommenderSystem, NLP Projects**
 
-🤝 &nbsp;Let's connect and code together!
+🤝  Open to collaborating on **Machine Learning, Deep Learning, Computer Vision, NLP, and Research Projects**
+
+📫  Reach me at **[kousjikshaw1111@gmail.com](mailto:kousjikshaw1111@gmail.com)**
+
+📄  Check out my **[Resume](https://drive.google.com/file/d/1rvnWdbfpkd98Lxp1nJd3mDmNTqrcsf3x/view?usp=sharing)**
 
 <br clear="right"/>
+
 
 
 ## 🌐 Connect With Me
